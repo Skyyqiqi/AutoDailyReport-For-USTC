@@ -4,16 +4,16 @@ import pytz
 from Report import Report
 # 要上传的数据
 report_data =[
-    ("juzhudi","东校区"),
-    ("dorm_building","365"),
-    ("dorm","304"),
+    ("juzhudi","中校区"),
+    ("dorm_building","3"),
+    ("dorm","712"),
     ("q_0","良好"),
     ("body_condition_detail",""),
     ("q_2",""),
     ("q_3",""),
     ("jinji_lxr", "zxx"),
     ("jinji_guanxi", "父"),
-    ("jiji_mobile", "4214"),
+    ("jiji_mobile", "4288714"),
     ("other_detail", "")
 ]
 cross_campus_data=[
